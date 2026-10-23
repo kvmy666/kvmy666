@@ -36,9 +36,9 @@ Software Engineering student at the University of Ha'il (GPA 3.626/4.0) · Ha'il
     <td><img alt="duoStatusBar stars" src="https://img.shields.io/github/stars/kvmy666/duoStatusBar?style=flat-square&labelColor=050505&color=00B13F&logoColor=00B13F&logo=github" /> <img alt="6,702 downloads" src="https://img.shields.io/badge/downloads-6%2C702-00B13F?style=flat-square&labelColor=050505" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/kvmy666/AutoExpandNotifications"><b>AutoExpandNotifications</b></a></td>
+    <td><a href="https://github.com/kvmy666/-AutoExpandNotifications"><b>AutoExpandNotifications</b></a></td>
     <td>Forces the shade to expand and keeps heads-up behaviour intact across OEM notification stacks.</td>
-    <td><img alt="AutoExpandNotifications stars" src="https://img.shields.io/github/stars/kvmy666/AutoExpandNotifications?style=flat-square&labelColor=050505&color=00B13F&logoColor=00B13F&logo=github" /> <img alt="4,628 downloads" src="https://img.shields.io/badge/downloads-4%2C628-00B13F?style=flat-square&labelColor=050505" /></td>
+    <td><img alt="AutoExpandNotifications stars" src="https://img.shields.io/github/stars/kvmy666/-AutoExpandNotifications?style=flat-square&labelColor=050505&color=00B13F&logoColor=00B13F&logo=github" /> <img alt="4,628 downloads" src="https://img.shields.io/badge/downloads-4%2C628-00B13F?style=flat-square&labelColor=050505" /></td>
   </tr>
   <tr>
     <td><a href="https://github.com/kvmy666/iosEmojis-Font-module"><b>iOS Emojis</b></a></td>
