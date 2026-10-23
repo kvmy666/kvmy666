@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Terminal card: Abdulkarim Alshudukhi — Android &amp; platform engineering. 6 Android products, 1 live on Google Play, 14,000+ downloads, open to co-op January 2027." />
+  <img src="./assets/hero.svg" width="100%" alt="Terminal card: Abdulkarim Alshudukhi — Android &amp; platform engineering. 6 Android products, 1 live on Google Play, 14,000+ downloads," />
 </div>
 
 <p align="center">
