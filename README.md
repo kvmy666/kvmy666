@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Terminal card: Abdulkarim Alshudukhi — Android &amp; platform engineering. 6 Android products, 1 live on Google Play, 14,000+ downloads," />
+  <img src="./assets/hero.svg" width="100%" alt="Terminal card: Abdulkarim Alshudukhi — Android &amp; platform engineering. 6 Android products, 1 live on Google Play, 14,000+ downloads, 79 GitHub stars, open to co-op January 2027." />
 </div>
 
 <p align="center">
@@ -11,7 +11,9 @@
 
 <div align="center">
 
-### Abdulkarim Alshudukhi &nbsp;·&nbsp; 
+### Abdulkarim Alshudukhi
+
+<p dir="rtl" align="center"><sub>عبدالكريم الشدوخي</sub></p>
 
 Android and platform engineer who works close to the system: LSPosed/Zygisk modules that survive real devices, Kotlin and Compose products, and a Next.js portfolio shipped as an MIT template.
 Software Engineering student at the University of Ha'il (GPA 3.626/4.0) · Ha'il, Saudi Arabia.
