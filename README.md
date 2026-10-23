@@ -11,12 +11,12 @@
 
 <div align="center">
 
-### Abdulkarim Alshudukhi &nbsp;·&nbsp; عبدالكريم الشدوخي
+### Abdulkarim Alshudukhi &nbsp;·&nbsp; 
 
 Android and platform engineer who works close to the system: LSPosed/Zygisk modules that survive real devices, Kotlin and Compose products, and a Next.js portfolio shipped as an MIT template.
 Software Engineering student at the University of Ha'il (GPA 3.626/4.0) · Ha'il, Saudi Arabia.
 
-**Open to a 28-week co-op (Jan–Aug 2027) in Android or platform engineering.**
+
 
 </div>
 
